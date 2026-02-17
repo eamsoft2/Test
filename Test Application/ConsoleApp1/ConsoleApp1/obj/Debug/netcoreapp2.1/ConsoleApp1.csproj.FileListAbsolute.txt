@@ -1,0 +1,11 @@
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.AssemblyReference.cache
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+G:\ATPL2\OAEMS\SRCVS2019\WinApps\Test Application\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
