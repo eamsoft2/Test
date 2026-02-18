@@ -3,7 +3,7 @@ name: Auto Create PR
 on:
   push:
     branches:
-      - 'feature/**'
+      - '*'
 
 jobs:
   create-pull-request:
